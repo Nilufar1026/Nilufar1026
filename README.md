@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nilufaer Abulimiti
 - 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning Next.js and TailwindCss
-- 	:earth_americas:My portfolio is available at: [web-app-portfoli.herokuapp.com](web-app-portfoli.herokuapp.com)
+- 	:earth_americas:My portfolio is available at: [web-app-portfoli.herokuapp.com](https://web-app-portfoli.herokuapp.com)
 - 📫 How to reach me: Nilux1026@gmail.com
 
 
